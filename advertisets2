@@ -1,0 +1,361 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>Safe Map Cozumel - Where to stay and things to do in Cozumel</title>
+    <link href="styles/style.css" rel="stylesheet" type="text/css" />
+    <link href='http://fonts.googleapis.com/css?family=PT+Sans:400,700,400italic' rel='stylesheet' type='text/css'/>
+    <link href='http://fonts.googleapis.com/css?family=Dosis:200,300' rel='stylesheet' type='text/css'/>
+
+    <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+
+    <script type="text/javascript">
+    if (typeof jQuery == 'undefined') {
+        document.write(unescape("%3Cscript src='js/jquery.min.js' type='text/javascript'%3E%3C/script%3E"));
+    }
+    </script>
+    <script type="text/javascript" src="js/jquery.lavalamp.min.js"></script>
+
+    <script type="text/javascript" src="js/fade-in-jquery.js"></script>
+    <script type="text/javascript" src="js/jquery.easing.min.js"></script>
+    <script type="text/javascript" src="js/jquery.jcarousel.min.js"></script>
+    <script type="text/javascript" src="js/feature_carousel.js"></script>
+    <script type="text/javascript" src="js/common.js"></script>
+
+    <script type="text/javascript">
+    $(document).ready(function()
+    {	
+       jcarouselHorizontal()
+       jqueryCycle()
+       jcarouselVertical()
+       socialIcon()
+       back2top()
+       lavaLamp()
+   });
+    </script>
+
+</head>
+
+<body>
+ <!--////////header////////-->
+ <div class="header">
+   <div class="wrap">
+    <div class="company-logo">
+        <div class="logo"><a href="index.html">home</a></div>
+    </div>
+    <div class="menu-container">
+      <div class="nav">
+       <ul id="main_menu">
+        <li><a href="index.html" id="home"> Home</a></li>
+        <li><a href="issues.html">Issues</a></li>
+        <li class="current"><a href="advertisers.html">Advertisers</a></li>
+        <li><a href="about_safemap.html">About Us</a></li>
+        <li><a href="faqs.html">Faq's</a></li>
+        <li><a href="tourist_information.html" >Tourist Information</a>
+                            <!--<ul>
+                                <li><a href="404.html">About Cozumel</a></li>
+                                <li><a href="#">Where to Stay</a></li>
+                                <li><a href="#">Things to Do</a></li>
+                                <li><a href="#">How to Get</a></li>
+                            </ul>-->
+                        </li>
+                        <li><a href="contact.html">Contact</a></li>
+                    </ul>
+                </div><!-- end nav -->
+            </div><!-- end menu-container -->
+        </div><!-- end wrap -->
+    </div>
+    <!--////////header end////////-->
+    <!-- /////banner/////-->
+    <div class="banner_small">
+        <div class="wrap">
+
+        </div>
+    </div>
+    <!-- /////banner end/////-->
+
+    <!-- ////wrapper////// -->
+    <div id="wrapper">
+        <!-- /////Main container///// -->
+        <div id="main-container">
+           <!-- ////left content/////-->
+           <div class="left-content">
+            <div class="dis-about-us">
+                <div class="about-right-sec">
+                    <div class="logo-watermark"></div>
+                </div>
+                <div class="about-left-sec">
+                    <p>Please see the following advertisers belonging to the current edition (June 2012 - September 2012 Map ) of Safe Map Cozumel. 
+                        Each advertiser contains important information about the services they offer, as well as contact details and location.  <br />
+                        Advertisers will be updated in each new edition of the map.</p>
+                    </div>        
+                </div>
+                <div class="title_styling">
+                    <h1>Advertiser's Map </h1>
+                    <div class="title_underline"></div>
+                </div>
+                <div class="team-member">
+                    <div class="about-right-sec">
+                        <div class="member-photo"><img src="images/team1.jpg" alt=""/></div>
+                    </div>
+                    <div class="team-description">
+                        <h2>Michele Angelina</h2>
+                        <div class="team-pos">
+                            Co-founder / CEO 
+                        </div>
+                        <p>Neque porro quisquam est, qui dolorem ipsum quia dolor sit mec onsectetur, adipisci velit, sed quia non numquam eius modiempo ra incidunt.</p>
+                    </div>
+                    <div class="team-social-media">
+                        <a href="#" title="Follow on Facebook" class="team-facebook"></a>
+                        <a href="#" title="Follow on Twitter" class="team-twitter"></a>
+                        <a href="#" title="Send Email" class="team-email"></a>
+                    </div>
+                </div><!-- end team member -->
+                
+                <div class="team-member">
+                    <div class="about-right-sec">
+                        <div class="member-photo"><img src="images/team1.jpg" alt=""/></div>
+                    </div>
+                    <div class="team-description">
+                        <h2>Georgina Smith</h2>
+                        <div class="team-pos">
+                            Head Developer 
+                        </div>
+                        <p>Neque porro quisquam est, qui dolorem ipsum quia dolor sit mec onsectetur, adipisci velit, sed quia non numquam eius modiempo ra incidunt.</p>
+                    </div>
+                    <div class="team-social-media">
+                        <a href="#" title="Follow on Facebook" class="team-facebook"></a>
+                        <a href="#" title="Follow on Twitter" class="team-twitter"></a>
+                        <a href="#" title="Send Email" class="team-email"></a>
+                    </div>
+                </div><!-- end team member -->
+                
+                <div class="team-member">
+                    <div class="about-right-sec">
+                        <div class="member-photo"><img src="images/team1.jpg" alt=""/></div>
+                    </div>
+                    <div class="team-description">
+                        <h2>JOHN DOE</h2>
+                        <div class="team-pos">
+                            Head Designer 
+                        </div>
+                        <p>Neque porro quisquam est, qui dolorem ipsum quia dolor sit mec onsectetur, adipisci velit, sed quia non numquam eius modiempo ra incidunt.</p>
+                    </div>
+                    <div class="team-social-media">
+                        <a href="#" title="Follow on Facebook" class="team-facebook"></a>
+                        <a href="#" title="Follow on Twitter" class="team-twitter"></a>
+                        <a href="#" title="Send Email" class="team-email"></a>
+                    </div>
+                </div><!-- end team member -->
+                
+                <div class="partners margin-top">
+                    <div class="title_styling">
+                        <h1>Partners and Clients</h1>
+                        <div class="title_underline"></div>
+                    </div>
+                    <div class="partners-holder">
+                        <ul id="mycarousel_horizontal" class="jcarousel-skin-charlie">
+                          <li><img src="images/partner1.jpg"  alt="" /></li>
+                          <li><img src="images/partner1.jpg"  alt="" /></li>
+                          <li><img src="images/partner1.jpg"  alt="" /></li>
+                          <li><img src="images/partner1.jpg"  alt="" /></li>
+                          <li><img src="images/partner1.jpg"  alt="" /></li>
+                          <li><img src="images/partner1.jpg"  alt="" /></li>
+                          <li><img src="images/partner1.jpg"  alt="" /></li>                       
+                      </ul>
+                  </div>
+              </div>
+              <br /><br />
+          </div>
+          <!-- ////left content end//// -->
+
+          <!-- ////rignt container//// -->
+          <div id="right-container">
+           <div id="right-content">
+            <div id="user-review" >
+                <div class="title_styling">
+                    <h1> User Review </h1>
+                    <div class="title_underline"></div>
+                </div>
+                <ul id="testimonials_slider">
+                   <li>
+                    <p>Neque porro quisquam est, qui dolorem ipsum quia dolor sit mec onsectetur, adipisci velit, sed quia non numquam eius modiempo ra incidunt.
+                        <br /><br />Neque porro quisquam est, qui dolorem ipsum quia dolor sit mec onsectetur</p>
+                        <span class="quote">– John Doe, ABC Company</span>
+                    </li>
+                    <li>
+                        <p>Adipisci velit, sed quia non numquam eius modiempo ra incidunt.Yeque porro quisquam est, qui dolorem ipsum quia dolor sit mec onsectetur. 
+                            <br /><br />Neque porro quisquam est, qui dolorem ipsum quia dolor sit mec onsectetur</p>
+                            <span class="quote">– Jason Clark, ABC Company</span>
+                        </li>
+                        <li>
+                            <p>Qui dolorem ipsum quia dolor neque porro quisquam est, sit mec onsectetur, adipisci velit,
+                                <br /><br />Neque porro quisquam est, qui dolorem ipsum quia dolor sit mec onsectetur</p>
+                                <span class="quote">– Mike, ABC Company</span>
+                            </li>
+                        </ul>
+                    </div>                
+                    <a href="#"><span class="app-store">Download from Apple Store</span></a>
+                    <a href="#"><span class="google-play">Download from Android Market</span></a>
+                    
+                    <div id="popular_posts">
+                        <div class="title_styling">
+                            <h1> Popular Post </h1>
+                            <div class="title_underline"></div>
+                        </div>
+                        <div class="pop_post">
+                          <ul id="mycarousel" class="jcarousel jcarousel-skin-tango">
+                            <li>
+                                <div class="pop_post">
+                                    <div class="pop_post_title">
+                                        <a href="#">Basarab tearge bridge very near the night, Bucharest, Romania</a>
+                                    </div>
+                                    <div class="pop_post_date">21.02.2012</div>
+                                    <div class="pop_post_comments"><a href="#">22 Comments</a></div>
+                                </div><!--end pop_post-->
+                            </li>
+
+                            <li>
+                                <div class="pop_post">
+                                    <div class="pop_post_title">
+                                        <a href="#">Basarab tearge bridge very near the night, Bucharest, Romania</a>
+                                    </div>
+                                    <div class="pop_post_date">21.02.2012</div>
+                                    <div class="pop_post_comments"><a href="#">22 Comments</a></div>
+                                </div><!--end pop_post-->
+                            </li>
+
+                            <li>
+                                <div class="pop_post">
+                                    <div class="pop_post_title">
+                                        <a href="#">Basarab tearge bridge very near the night, Bucharest, Romania</a>
+                                    </div>
+                                    <div class="pop_post_date">21.02.2012</div>
+                                    <div class="pop_post_comments"><a href="#">22 Comments</a></div>
+                                </div><!--end pop_post-->
+                            </li>
+                        </ul>
+                    </div><!--end pop_post-->
+                </div>                    
+            </div>
+        </div>
+        <!-- ////rignt container end//// -->
+    </div> 
+    <!-- /////END Main container///// -->
+</div>
+<!-- ////wrapper///// -->
+
+<!-- //////footer////// -->
+<div class="footer">
+    <div class="strip_1">
+        <div class="strip_1_radial">
+            <div class="wrap">
+                <div class="footer_watermark"></div>
+                <div class="footer_box ">
+                    <div class="footer_title_styling">
+                        <h1> Quick Links </h1>
+                        <div class="footer_title_underline"></div>
+                    </div>
+                        <!--<ul>
+                            <li><a href="about.html">Issues </a></li>
+                            <li><a href="blog.html">Advertisers </a></li>
+                            <li><a href="contact.html">About Us</a> </li>
+                            <li><a href="#">Faq's</a> </li>
+                        </ul>
+                        <ul>
+                            <li><a href="#">Tourist Info</a></li>
+                            <li><a href="#">Contact </a></li>
+                            <li><a href="#">Terms of Use </a></li>
+                            <li><a href="#">Free Ads Form</a> </li>
+                        </ul>-->
+                        <ul>
+                            <li><a href="about.html">Issues </a></li>
+                            <li><a href="blog.html">Advertisers </a></li>
+                            <li><a href="contact.html">About Us</a> </li>
+                            <li><a href="#">Tourist Info</a> </li>
+                        </ul>
+                        <ul>
+                            <li><a href="#">Contact Us</a></li>
+                            
+                            <li><a href="#">FAQ </a></li>
+                            <li><a href="#">Legal </a></li>
+                            <li><a href="#">Ads Form</a> </li>
+                        </ul>
+                    </div>
+                    <div class="footer_box">
+                        <div class="footer_title_styling">
+                            <h1> Social Media</h1>
+                            <div class="footer_title_underline"></div>
+                        </div>
+                        <p>
+                            We are just as active on popular social sites. Don't
+                            forget to follow us.
+                        </p>
+                        <a class="social_link" id="fb" href="#"></a>
+                        <a class="social_link" id="tw" href="#"></a>
+                        <a class="social_link" id="rss" href="#"></a> 
+                        <!--  Place this tag where you want the +1 button to render  -->
+                        <div class="google_plus">
+                            <!--  Place this tag where you want the +1 button to render  -->
+                            <g:plusone size="medium"></g:plusone>
+                            
+                            <!--  Place this render call where appropriate  -->
+                            <script type="text/javascript">
+                            (function() {
+                                var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+                                po.src = 'https://apis.google.com/js/plusone.js';
+                                var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+                            })();
+                            </script>                            
+                        </div>
+                        <div class="facebook_like">
+                            <div id="fb-root"></div>
+                            <script type="text/javascript">
+                            (function(d, s, id) {
+                              var js, fjs = d.getElementsByTagName(s)[0];
+                              if (d.getElementById(id)) return;
+                              js = d.createElement(s); js.id = id;
+                              js.src = "//connect.facebook.net/en_GB/all.js#xfbml=1";
+                              fjs.parentNode.insertBefore(js, fjs);
+                          }(document, 'script', 'facebook-jssdk'));</script>
+                          <div class="fb-like" data-send="false" data-layout="button_count" data-width="100" data-show-faces="false"></div> 
+                          
+                      </div>
+                  </div>
+                  <div class="footer_box">
+                    <div class="footer_title_styling">
+                        <h1> Newsletter </h1>
+                        <div class="footer_title_underline"></div>
+                    </div>
+                    <p>
+                        Subscribe to our newsletter and be the first to hear
+                        about latest issues and news.
+                    </p>
+                    <div class="news_sub">
+                        <input type="text" onblur="if(this.value=='')this.value='Your Email Address';" onclick="if(this.value=='Your Email Address')this.value='';" value="Your Email Address" name="Email"/>
+                        <div class="secondary-button">
+                            <div class="secondary-button-content">
+                                <a href="#">Subscribe</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div><!-- strip_1 -->
+    
+    <div class="strip_2">
+        <div class="strip_2_shadow">
+            <div class="wrap">
+                <!--<div class="footer-logo">Mobile App</div>-->
+                <p style="color:#222;">© Copyright Safemap Cozumel - Developed by <a style="color:#222;" href="http://www.geckocreativo.com" target="_blank">Gecko Creativo</a></p>
+            </div>   
+        </div>     
+    </div><!-- strip_2 -->
+    
+</div>
+<!-- //////footer end////// -->
+<div id="goto_top"></div>
+</body>
+</html>
+
