@@ -302,7 +302,7 @@
         <h1> Free ads Form.</h1>
         <div class="title_underline"></div>
     </div>
-    <img src="http://www.safemapcozumel.com/images/tourist/bannerform.jpg">
+    <a href="hiring.php"></a><img src="http://www.safemapcozumel.com/images/tourist/bannerform.jpg"></a>
 </div>
 </div>
 <!-- /////End left container///////// -->
