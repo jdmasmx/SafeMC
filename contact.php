@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-    <title>Safe Map Cozumel - Where to stay and things to do in Cozumel</title>
+    <title>Safe Map Cozumel - Where to stay and things to do in Cozumel.</title>
     <!--META KEYWORDS-->
     <meta name="description" content="Safe Map Cozumel is the best map for what to do, where to stay and how to get to Cozumel. We offer the best services on the island for you to enjoy your stay. Safe Map Cozumel provides information on services such as restaurants, beach clubs, hospitals, hotels, cafes, jewelry, crafts, among other quality services and excellent price in cozumel." />
     <meta name="keywords" content="safe, map, cozumel, how to get, where to stay, things to do, restaurants, clinics, tours, dive, snorkel, breakfast, lunch, dinner, sea, food, coffee, drugstore, jewelry, sport, bar, grill, spa, adventure, playa del carmen, cancun, cozumel map, mapa de cozumel" />
