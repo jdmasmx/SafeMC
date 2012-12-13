@@ -114,7 +114,7 @@
                 </div>
 
                 <h3>Office</h3>
-                Akumal # 574 between 20 and 30 Ave. Colonos Cuzamil C.P. 77664. Cozumel Quintana Roo, Mexico
+                Akumal # 574 between 20 and 30 Ave. Colonos Cuzamil C.P. 77664. Cozumel Quintana Roo, Mexico.
             </p>
 
             <hr class="divide"/> <br />
